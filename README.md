@@ -1,5 +1,5 @@
 # Mill Valley Town Hall
-[address tbd], Mill Valley, CA 94941
+26 Corte Madera Ave, Mill Valley, CA 94941
 
 ## Building History
 [Mill Valley Historical Society - Town Hall](https://www.mvhistory.org/vignette-town-hall/): 
@@ -8,7 +8,7 @@ When Mill Valley was incorporated as a town in 1900, official meetings were held
 
 
 - Built: 1908
-- Replaced: this building was remodeled but never replaced
+- Replaced: Replaced by current fire station
 - Architect: tbd
 
 ## SketchUp Model
@@ -16,8 +16,8 @@ When Mill Valley was incorporated as a town in 1900, official meetings were held
 - Model completed: May 2018
 - Modeled in SketchUp 2017
 
-![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theatre/blob/master/hub-theatre-1920.jpg)
-![1920 photo of Hub Theatre](https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theater/blob/master/hubtheatre-front.jpg)
+![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-town-hall/blob/master/town-hall.jpg)
+![1908 photo of Town Hall](https://github.com/TimeWalkOrg/building-mill-valley-ca-town-hall/blob/master/1908-town-hall.jpg)
 
 ### Online references:
 - [Mill Valley Historical Society - Town Hall](https://www.mvhistory.org/vignette-town-hall/)
