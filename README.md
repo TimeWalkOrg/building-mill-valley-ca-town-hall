@@ -2,11 +2,12 @@
 [address tbd], Mill Valley, CA 94941
 
 ## Building History
-The Throckmorton was built in 1915 (originally called the “Hub Theatre”) for showing silent films. It closed in 1929 with sound films having been invented and played at the newly opened Sequoia Theater. In 1952, it was bought by The Odd Fellows Temple, and in 1976, it became a movie theater again. This is where the first of the Mill Valley Film Festivals began. As of 2017, it is used as a theater for live performances.
+[Mill Valley Historical Society - Town Hall](https://www.mvhistory.org/vignette-town-hall/): 
+When Mill Valley was incorporated as a town in 1900, official meetings were held in Grethel’s Hall on the second floor above the Eastland Bakery at 18 Miller Avenue.  In October 1903, the town offices relocated to the newly built Masonic Hall at the foot of Corte Madera Avenue. In 1902, the Town purchased property across the street from Masonic Hall. The site, a redwood grove, had once been a campground for workers who graded Mill Valley’s first streets and built the Mountain Railway.  In 1908, fire department volunteers built a two-story wood structure there and painted it yellow. Downstairs was a stable for two fire horses and space for carts and wagons. Upstairs were firemen’s quarters and Mill Valley’s first Town Hall.   When the city fathers had a meeting the stench there was intolerable. Eventually, the horses were gone, but the less than ideal conditions prevailed. Beginning in 1904 The Outdoor Art Club had collected books and opened its library 3 days a week. In 1908, OAC turned over 750 volumes to the town library housed in the firehouse. In 1935, the Firehouse/Town hall was torn down to allow construction of a new city hall and fire station on the site.
 
-"This building was called the Hub Theatre when it was built in 1915 as a movie theater showing silent films. Musical accompaniment was in the capable hands of Hattie Thompson at an electrically powered organ. Admission to a Saturday Matinee cost 5 cents. The showing included a Wild West Serial." Source: [Mill Valley Historical Society Vignette](https://www.mvhistory.org/vignette-142-throckmorton/)
 
-- Built: 1915
+
+- Built: 1908
 - Replaced: this building was remodeled but never replaced
 - Architect: tbd
 
@@ -18,11 +19,5 @@ The Throckmorton was built in 1915 (originally called the “Hub Theatre”) for
 ![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theatre/blob/master/hub-theatre-1920.jpg)
 ![1920 photo of Hub Theatre](https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theater/blob/master/hubtheatre-front.jpg)
 
-
 ### Online references:
-- [Mill Valley Historical Society Vignette](https://www.mvhistory.org/vignette-142-throckmorton/)
-- [Throckmorton Theatre website](https://throckmortontheatre.org/)
-- [Mill Valley Historical Review, Spring 1984](http://www.millvalleylibrary.net/historyroom/collections/archive/files/mvhs1984spring-reduce_910d348bce.pdf)
-
-## TimeWalk Images
-![TimeWalk Unity Model](tbd)
+- [Mill Valley Historical Society - Town Hall](https://www.mvhistory.org/vignette-town-hall/)
